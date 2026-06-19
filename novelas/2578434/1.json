@@ -8,8 +8,8 @@
     "translator": "Milky",
     "translation_date": "2026-06-19",
     "version": "1.0",
-    "method": "manual",
-    "reviewed": true,
+    "method": "mtl",
+    "reviewed": false,
     "source_lang": "zh"
   },
   "paragraphs": [
